@@ -10,13 +10,15 @@ Npm install
 
 Npx ts-node trab/src/main.ts
 
-pessoa.entity.ts - classe 'Pessoa'
+Classes criadas para a implementação do Design pattern:
 
-repositorio-de-pessoas.interface.ts - interface
+  pessoa.entity.ts - classe 'Pessoa'
 
-pessoa-csv.adapter.ts - adapter que lê '.csv'
+  repositorio-de-pessoas.interface.ts - interface
 
-main.ts - exemplo de uso
+  pessoa-csv.adapter.ts - adapter que lê '.csv'
+
+  main.ts - exemplo de uso
 
 
 
