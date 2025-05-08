@@ -6,7 +6,7 @@ Criar um Adapter para ler dados de pessoas em arquivos '.csv' e retornar objetos
 Como rodar
 
 npm install
-npx ts-node src/main.ts
+npx ts-node trab/src/main.ts
 
 pessoa.entity.ts - classe 'Pessoa'
 repositorio-de-pessoas.interface.ts - interface
